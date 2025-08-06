@@ -1,0 +1,43 @@
+2025-07-30 09:02:25,962 [INFO] 配置已更新: max_response_items=100, max_response_size=1048576MB
+2025-07-30 09:02:25,987 [INFO] 自动调整pageSize从20000到100以控制响应大小
+2025-07-30 09:02:25,987 [INFO] 配置已更新: max_response_items=50, max_response_size=1048576MB
+2025-07-30 10:10:15,318 [INFO] 响应分析完成: 总数据量=20000, 分析耗时=0.03秒
+2025-07-30 10:10:15,399 [INFO] 响应分析完成: 总数据量=20000, 分析耗时=0.03秒
+2025-07-30 10:10:15,401 [INFO] 响应分析完成: 总数据量=100, 分析耗时=0.00秒
+2025-07-30 10:10:15,404 [INFO] 响应分析完成: 总数据量=1000, 分析耗时=0.00秒
+2025-07-30 10:10:15,416 [INFO] 响应分析完成: 总数据量=5000, 分析耗时=0.01秒
+2025-07-30 10:10:15,443 [INFO] 响应分析完成: 总数据量=10000, 分析耗时=0.01秒
+2025-07-30 10:10:15,506 [INFO] 响应分析完成: 总数据量=20000, 分析耗时=0.03秒
+2025-07-30 10:25:32,124 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='1'
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Set params.pageIndex = 1 (as int)
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Successfully updated params JSON: {"columns":"NAME,MAINT_GROUP,MAINT_ORG,PSR_STATE,OPERATE_DATE,JOIN_EC,REMARK,PSR_ID,ZONE,TRANSFORMER,LOCATE_MODE,UPDATE_MODE,RUN_DEV_NAME,RATED_VOLTAGE,CITY,EQUIP_CODE,MODEL,VOLTAGE_LEVEL","filter":"sblxId=YXTZCXY-B76C-4394-BD03-68EB9F10B#3112&isFristSelect=F","pageIndex":1,"pageSize":50}
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='2'
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Set params.pageIndex = 2 (as int)
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Successfully updated params JSON: {"columns":"NAME,MAINT_GROUP,MAINT_ORG,PSR_STATE,OPERATE_DATE,JOIN_EC,REMARK,PSR_ID,ZONE,TRANSFORMER,LOCATE_MODE,UPDATE_MODE,RUN_DEV_NAME,RATED_VOLTAGE,CITY,EQUIP_CODE,MODEL,VOLTAGE_LEVEL","filter":"sblxId=YXTZCXY-B76C-4394-BD03-68EB9F10B#3112&isFristSelect=F","pageIndex":2,"pageSize":50}
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='3'
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Set params.pageIndex = 3 (as int)
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Successfully updated params JSON: {"columns":"NAME,MAINT_GROUP,MAINT_ORG,PSR_STATE,OPERATE_DATE,JOIN_EC,REMARK,PSR_ID,ZONE,TRANSFORMER,LOCATE_MODE,UPDATE_MODE,RUN_DEV_NAME,RATED_VOLTAGE,CITY,EQUIP_CODE,MODEL,VOLTAGE_LEVEL","filter":"sblxId=YXTZCXY-B76C-4394-BD03-68EB9F10B#3112&isFristSelect=F","pageIndex":3,"pageSize":50}
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='4'
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Set params.pageIndex = 4 (as int)
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Successfully updated params JSON: {"columns":"NAME,MAINT_GROUP,MAINT_ORG,PSR_STATE,OPERATE_DATE,JOIN_EC,REMARK,PSR_ID,ZONE,TRANSFORMER,LOCATE_MODE,UPDATE_MODE,RUN_DEV_NAME,RATED_VOLTAGE,CITY,EQUIP_CODE,MODEL,VOLTAGE_LEVEL","filter":"sblxId=YXTZCXY-B76C-4394-BD03-68EB9F10B#3112&isFristSelect=F","pageIndex":4,"pageSize":50}
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='5'
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Set params.pageIndex = 5 (as int)
+2025-07-30 10:25:32,125 [DEBUG] DEBUG: Successfully updated params JSON: {"columns":"NAME,MAINT_GROUP,MAINT_ORG,PSR_STATE,OPERATE_DATE,JOIN_EC,REMARK,PSR_ID,ZONE,TRANSFORMER,LOCATE_MODE,UPDATE_MODE,RUN_DEV_NAME,RATED_VOLTAGE,CITY,EQUIP_CODE,MODEL,VOLTAGE_LEVEL","filter":"sblxId=YXTZCXY-B76C-4394-BD03-68EB9F10B#3112&isFristSelect=F","pageIndex":5,"pageSize":50}
+2025-07-30 10:51:01,155 [DEBUG] DEBUG: modify_request called with param_key='params.pageIndex', param_value='2'
+2025-07-30 10:51:01,156 [DEBUG] DEBUG: Processing nested parameter: params.pageIndex
+2025-07-30 10:51:01,156 [DEBUG] DEBUG: Processing params.pageIndex
+2025-07-30 10:51:01,156 [DEBUG] DEBUG: Successfully updated params JSON
+2025-07-30 11:05:28,396 [INFO] JSON响应处理成功: param_value=test_param
+2025-07-30 11:05:28,396 [INFO] JSON响应过大，仅显示前1048576字节预览: param_value=test_param
+2025-07-30 11:20:24,793 [INFO] 处理大JSON响应: param_value=test_param, size=28570450 bytes
+2025-07-30 11:20:24,940 [INFO] 大JSON响应解析成功: param_value=test_param
